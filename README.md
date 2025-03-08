@@ -1,4 +1,4 @@
-Pet System - 宠物领养系统
+Pet System - 宠物领养系统 -- 更多微信：jackSinWu
 
 项目介绍
 
