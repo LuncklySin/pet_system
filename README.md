@@ -1,10 +1,18 @@
-Pet System - 宠物领养系统 -- 更多微信：jackSinWu
+Pet System - 宠物领养系统 -- 更多微信：jackSinWu -- B站：不知名选手java小鑫 -关注打9折
 
 项目介绍
 
 宠物领养系统是一个集 宠物领养、寄养、丢失宠物查找、丢失主人寻回 于一体的平台，旨在帮助宠物找到合适的主人，同时提供宠物相关的交流与服务。
 
-![image](https://github.com/user-attachments/assets/8f5213ac-ab5e-4bc5-8214-04e836063d74)
+![image](https://github.com/user-attachments/assets/31e16ebd-cba3-4ab8-8297-c5cc8f8fda94)
+![image](https://github.com/user-attachments/assets/150a4d5b-f7fe-409d-a399-8bf8eab2281f)
+![image](https://github.com/user-attachments/assets/7ddf41eb-8c79-444d-b5fb-1f449c76c15d)
+![image](https://github.com/user-attachments/assets/b99a56dc-6541-4930-87e3-eea105d449ef)
+![image](https://github.com/user-attachments/assets/ce6c0d39-26a3-465d-b70c-f11d2a2dfd9e)
+![image](https://github.com/user-attachments/assets/323528db-ab1e-456e-8d22-46b2278e242b)
+![image](https://github.com/user-attachments/assets/b3a697a7-f5c4-4beb-9c49-e54a4fe8ec4e)
+
+![image](https://github.com/user-attachments/assets/65370537-eaa5-4d3c-95c5-250e34197c2d)
 
 
 技术栈
